@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏日章",
+  "base_artist": "夏央",
+  "createdAt": "2025-12-31T18:04:05.012923Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏日章 (feat. 倚水)",
+      "artist": "夏央",
+      "has_synced": false,
+      "path": "select/pl_01_夏日章_(feat._倚水)_夏央.txt"
+    }
+  ]
+}
